@@ -1,0 +1,7 @@
+plugins:
+  twitch_username:
+    default: 'Twitch Username'
+    client: true
+  twitch_client_id:
+    default: 'Twitch App Client ID'
+    client: true

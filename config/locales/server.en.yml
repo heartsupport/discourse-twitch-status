@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    twitch_username: "Twitch Channel Name"
+    twitch_client_id: "Twitch App Client ID"

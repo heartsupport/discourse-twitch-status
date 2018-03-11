@@ -1,0 +1,7 @@
+a#twitch-status-link {
+  position: relative;
+  bottom: 4px;
+  padding-top: 0;
+  background-color: transparent;
+  display: none;
+}
