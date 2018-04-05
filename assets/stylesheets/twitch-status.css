@@ -4,6 +4,8 @@ a#twitch-status-link {
   padding-top: 0;
   background-color: transparent;
   display: none;
+}
+a#twitch-status-link > img {
   width: 132px;
   height: 25px;
 }
